@@ -49,7 +49,7 @@ To run the code, follow these steps:
 2. **Train the Model**
    Execute the training script:
    ```bash
-   python src/backend/main.py
+   python main.py
    ```
 
 3. **Evaluate the Model**
