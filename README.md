@@ -1,4 +1,4 @@
-# Fact-Checking with BERT
+# Tweet Fact-Checking with BERT
 
 ## Project Overview
 This project aims to fine-tune a pre-trained BERT model for fact-checking using a Twitter dataset. The model is trained to classify claims based on their veracity, leveraging the capabilities of BERT for natural language understanding.
